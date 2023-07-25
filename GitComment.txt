@@ -1,0 +1,4 @@
+git init --->initialize the repository
+git add . ---> for stage the changes
+git commit -m "mes" ---> commit the changes
+git push ---> for push our updated code to respected repository in our git
